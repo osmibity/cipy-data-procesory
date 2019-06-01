@@ -1,1 +1,3 @@
-[Stáhnout aktuální verzi rukopisu jako PDF](http://bit.ly/cipy-work)
+[Stáhnout aktuální verzi rukopisu jako PDF](https://bit.ly/cipy-work)
+
+[![Donate](donate.png)](https://www.osmibity.cz/addons.html/)
